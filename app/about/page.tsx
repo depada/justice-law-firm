@@ -241,7 +241,7 @@ export default function AboutPage() {
               Join Our <span className="text-gold-500">Legacy</span>
             </h2>
             <p className="body-large text-charcoal-300 mb-8">
-              We're always looking for exceptional talent to join our team.
+              We&apos;re always looking for exceptional talent to join our team.team.
             </p>
             <a href="/contact" className="btn-primary">
               Explore Opportunities

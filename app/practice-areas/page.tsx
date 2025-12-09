@@ -145,7 +145,7 @@ export default function PracticeAreasPage() {
         <div className="page-container">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="heading-2 text-charcoal-50 mb-6">
-              Let's Discuss Your{" "}
+              Let&apos;s Discuss Your{" "}
               <span className="text-gold-500">Legal Needs</span>
             </h2>
             <p className="body-large text-charcoal-300 mb-8">

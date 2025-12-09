@@ -65,7 +65,7 @@ export default function TestimonialsSection() {
 
               {/* Quote */}
               <blockquote className="text-2xl md:text-3xl font-display text-charcoal-50 text-center mb-12 leading-relaxed">
-                "{current.quote}"
+                &ldquo;{current.quote}&rdquo;
               </blockquote>
 
               {/* Author */}

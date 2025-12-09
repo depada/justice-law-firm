@@ -71,7 +71,7 @@ export default function ContactPage() {
               Get in <span className="text-gold-500">Touch</span>
             </h1>
             <p className="body-large text-charcoal-300">
-              Schedule a confidential consultation with our team. We're here to
+              Schedule a confidential consultation with our team. We&apos;re here to
               help you navigate your most complex legal challenges.
             </p>
           </div>
@@ -89,7 +89,7 @@ export default function ContactPage() {
                   Send Us a Message
                 </h2>
                 <p className="text-charcoal-400 mb-8">
-                  Fill out the form below and we'll get back to you within 24
+                  Fill out the form below and we&apos;ll get back to you within 24
                   hours.
                 </p>
 
@@ -102,7 +102,7 @@ export default function ContactPage() {
                       Message Sent!
                     </h3>
                     <p className="text-charcoal-300">
-                      Thank you for contacting us. We'll be in touch shortly.
+                      Thank you for contacting us. We&apos;ll be in touch shortly.
                     </p>
                   </div>
                 ) : (

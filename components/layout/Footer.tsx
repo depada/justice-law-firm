@@ -44,7 +44,7 @@ export default function Footer() {
             </Link>
             <p className="text-charcoal-300 mb-6 max-w-sm leading-relaxed">
               Strategic counsel for complex disputes. We deliver exceptional
-              legal representation with unwavering commitment to our clients'
+              legal representation with unwavering commitment to our clients&apos;
               success.
             </p>
 
